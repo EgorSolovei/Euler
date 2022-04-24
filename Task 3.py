@@ -21,4 +21,3 @@ while num != 1 and d*d <= num:
     else:
         d += 1
 print(num)
-print('LALAL')
