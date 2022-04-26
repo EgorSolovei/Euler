@@ -10,6 +10,3 @@ for i in range(n):
         delt.append(i)
 print(sum)
 print(delt)
-
-print('Bucnwiuiw')
-print('Hey Git')
